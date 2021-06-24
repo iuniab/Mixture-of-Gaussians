@@ -1,0 +1,1 @@
+This project aims to (i) to generate some data from a mixture of Gaussians (MoG) model, and (ii) subsequently to fit a MoG model to the generated data, in order to recover the original parameters. More specifically, we attempt to approximate the posterior of one class (positive) through the mixture of Gaussians method. 
